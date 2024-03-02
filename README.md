@@ -1,1 +1,3 @@
-# ysr22.github.io
+# My Bioinformatics Learning Webpage
+## Lec 1, 2024-3-1
+To be updated...
