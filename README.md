@@ -4,7 +4,7 @@
 
 ### 1 Gene: Coding & Noncoding
 #### 1.1 Gene and Genome
-- **Gene**: A piece of Information. $\Rightarrow$ **Genome**: Combination of genes.
+- **Gene**: A piece of Information. → **Genome**: Combination of genes.
 #### 1.2 Why do humans have so few genes? (*Science* 125 Questions)
 - Human: ~21,000 genes, fewer than many other organisms.  
 - **Noncoding genes** percentage: HIGH!! (nearly 100%) 
